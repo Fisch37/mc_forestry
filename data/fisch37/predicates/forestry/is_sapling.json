@@ -1,0 +1,61 @@
+{
+    "condition": "any_of",
+    "terms": [
+        {
+            "condition": "entity_properties",
+            "entity": "this",
+            "predicate": {
+                "nbt": "{\"Item\":{\"id\":\"minecraft:oak_sapling\"}}"
+            }
+        },
+        {
+            "condition": "entity_properties",
+            "entity": "this",
+            "predicate": {
+                "nbt": "{\"Item\":{\"id\":\"minecraft:spruce_sapling\"}}"
+            }
+        },
+        {
+            "condition": "entity_properties",
+            "entity": "this",
+            "predicate": {
+                "nbt": "{\"Item\":{\"id\":\"minecraft:birch_sapling\"}}"
+            }
+        },
+        {
+            "condition": "entity_properties",
+            "entity": "this",
+            "predicate": {
+                "nbt": "{\"Item\":{\"id\":\"minecraft:jungle_sapling\"}}"
+            }
+        },
+        {
+            "condition": "entity_properties",
+            "entity": "this",
+            "predicate": {
+                "nbt": "{\"Item\":{\"id\":\"minecraft:acacia_sapling\"}}"
+            }
+        },
+        {
+            "condition": "entity_properties",
+            "entity": "this",
+            "predicate": {
+                "nbt": "{\"Item\":{\"id\":\"minecraft:dark_oak_sapling\"}}"
+            }
+        },
+        {
+            "condition": "entity_properties",
+            "entity": "this",
+            "predicate": {
+                "nbt": "{\"Item\":{\"id\":\"minecraft:mangrove_propagule\"}}"
+            }
+        },
+        {
+            "condition": "entity_properties",
+            "entity": "this",
+            "predicate": {
+                "nbt": "{\"Item\":{\"id\":\"minecraft:cherry_sapling\"}}"
+            }
+        }
+    ]
+}

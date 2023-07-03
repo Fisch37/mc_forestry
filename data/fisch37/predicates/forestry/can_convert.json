@@ -1,0 +1,21 @@
+{
+    "condition": "entity_scores",
+    "entity": "this",
+    "scores": {
+        "f37_ft_Age": {
+            "min": 4800
+        },
+        "f37_ft_MotionX": {
+            "min": -2,
+            "max": 2
+        },
+        "f37_ft_MotionZ": {
+            "min": -2,
+            "max": 2
+        },
+        "f37_ft_MotionY": {
+            "min": -120,
+            "max": 0
+        }
+    }
+}
